@@ -46,3 +46,5 @@ That's technically all you need to get your LAMP development environment up and 
 * [Node & NPM](https://nodejs.org/en/) - Node is a free tool that can run JavaScript outside the context of a web browser.
 * [webpack](https://webpack.github.io/) - Free tool that bundles up multiple files.
 * [Gulp](http://gulpjs.com/) - Free task-runner tool. No longer the cool kid on the block (webpack owns that title now) but I still prefer Gulp for generic task running and non-bundle'ish tasks.
+
+Since nothing more will be done with this repo, it has been archived. CodeConvergence - 7. Apr 2026 at 14:49:17
